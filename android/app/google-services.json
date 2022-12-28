@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1079184484786",
+    "project_id": "engineering-buddy-ddbaa",
+    "storage_bucket": "engineering-buddy-ddbaa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1079184484786:android:907e181f4bcad53b919cab",
+        "android_client_info": {
+          "package_name": "com.example.finalbookapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1079184484786-f1dgq4b91sh6jvig1ackjg5d5of7qvas.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkhLUyb5OydFk-7Rc8EpkgEXlj_Gi8ezI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1079184484786-f1dgq4b91sh6jvig1ackjg5d5of7qvas.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
